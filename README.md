@@ -12,5 +12,5 @@
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📱Contato
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/caio-kaefer)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/caio-kaefer](https://www.linkedin.com/in/caio-kaefer-03aa9b233/))
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:kaefer.caio@gmail.com)
