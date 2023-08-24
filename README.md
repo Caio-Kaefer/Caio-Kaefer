@@ -13,5 +13,4 @@
 
 ## 📱Contato
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/caio-kaefer)
-- [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/Caio-Kaefer)
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:kaefer.caio@gmail.com)
