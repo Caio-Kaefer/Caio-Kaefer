@@ -1,5 +1,7 @@
-# Olá, meu nome é Caio Kaefer
+# <strong>Olá, meu nome é Caio Kaefer</strong>
 
+## Sobre Mim
+Sou um entusiasta da programação em constante aprendizado e apaixonado por desenvolvimento web. Atualmente, estou focado em me tornar um programador fullstack. Tenho experiência em várias tecnologias, incluindo Node.js, C#, HTML, CSS, JavaScript, React e MySQL.
 ## Habilidades
 
 ### Frontend
@@ -12,5 +14,10 @@
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📱Contato
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/caio-kaefer](https://www.linkedin.com/in/caio-kaefer-03aa9b233/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/caio-kaefer)
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github)](https://github.com/Caio-Kaefer)
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:kaefer.caio@gmail.com)
+
+## Objetivos
+Estou em busca de oportunidades de aprendizado e colaboração. Atualmente, estou explorando arquiteturas escaláveis e boas práticas de desenvolvimento.
+
