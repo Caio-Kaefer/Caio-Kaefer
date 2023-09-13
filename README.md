@@ -21,3 +21,4 @@ Sou um entusiasta da programação em constante aprendizado e apaixonado por des
 ## Objetivos
 Estou em busca de oportunidades de aprendizado e colaboração. Atualmente, estou explorando arquiteturas escaláveis e boas práticas de desenvolvimento.
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Caio-Kaefer&theme=dark&background=000000)](https://git.io/streak-stats)
