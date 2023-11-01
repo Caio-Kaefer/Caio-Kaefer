@@ -1,7 +1,7 @@
 # <strong>Olá, meu nome é Caio Kaefer</strong>
 
 ## Sobre Mim
-Sou um entusiasta da programação em constante aprendizado e apaixonado por desenvolvimento web. Atualmente, estou focado em me tornar um programador fullstack. Tenho experiência em várias tecnologias, incluindo Node.js, C#, HTML, CSS, JavaScript, React e MySQL.
+Sou um entusiasta da programação em constante aprendizado e apaixonado por desenvolvimento web. Atualmente, estou focado em me tornar um programador fullstack. Tenho conhecimento em várias tecnologias, incluindo Node.js, C#, HTML, CSS, JavaScript, React e MySQL.
 ## Habilidades
 
 ### Frontend
